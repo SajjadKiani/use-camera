@@ -1,5 +1,5 @@
 {
-  "name": "use-camera",
+  "name": "use-camera-react",
   "version": "0.1.0",
   "description": "A React hook to control the device camera: start/stop, flip front/back, capture photos, and record short videos with audio.",
   "main": "src/index.js",
@@ -19,12 +19,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SajjadKiani/use-camera.git"
+    "url": "https://github.com/SajjadKiani/use-camera-react.git"
   },
   "bugs": {
-    "url": "https://github.com/SajjadKiani/use-camera/issues"
+    "url": "https://github.com/SajjadKiani/use-camera-react/issues"
   },
-  "homepage": "https://github.com/SajjadKiani/use-camera-#readme",
+  "homepage": "https://github.com/SajjadKiani/use-camera-react#readme",
   "peerDependencies": {
     "react": ">=18",
     "react-dom": ">=18"
